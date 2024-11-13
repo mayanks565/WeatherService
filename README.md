@@ -36,7 +36,7 @@ This project is designed using the **Clean Architecture** pattern to maintain se
 ### Step 1: Clone the Repository
 
 ``bash
-git clone [https://github.com/your-username/weather-service.git](https://github.com/mayanks565/WeatherService.git)
+git clone https://github.com/mayanks565/WeatherService.git
 cd weather-service
 
 ### Step 2: Configure the Project
